@@ -5,7 +5,7 @@ The python code uses the Selenium and BeautifulSoup modules to scrape climate da
 The data available on the aforementioned website is available in a table format for a particular variable/parameter for a given year (selected using a form). The form updates dynamically after changing states to include the respective districts.
 
 ![selenium](https://www.seleniumhq.org/images/big-logo.png "Selenium")
-
+<img src="https://www.seleniumhq.org/images/big-logo.png" width="48">
 ![BeutifulSoup](https://www.crummy.com/software/BeautifulSoup/10.1.jpg =100x20 "BeautifulSoup")
 
 
