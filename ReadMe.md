@@ -1,8 +1,8 @@
-# Dynamic Web Scraping
+### Dynamic Web Scraping
 
-## The python code uses the Selenium and BeautifulSoup modules to scrape climate data from www.indiawaterportal.com
+The python code uses the Selenium and BeautifulSoup modules to scrape climate data from www.indiawaterportal.com
 
-### The data available on the aforementioned website is available in a table format for a particular variable/parameter for a given year (selected using a form). The form updates dynamically after changing states to include the respective districts.
+The data available on the aforementioned website is available in a table format for a particular variable/parameter for a given year (selected using a form). The form updates dynamically after changing states to include the respective districts.
 
 Inline-style: 
 ![alt text](https://www.seleniumhq.org/images/big-logo.png "Selenium")
