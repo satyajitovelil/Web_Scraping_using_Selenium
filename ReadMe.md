@@ -6,7 +6,7 @@ The data available on the aforementioned website is available in a table format 
 
 ![selenium](https://www.seleniumhq.org/images/big-logo.png "Selenium")
 
-![BeutifulSoup](https://www.crummy.com/software/BeautifulSoup/10.1.jpg "BeautifulSoup")
+![BeutifulSoup](https://www.crummy.com/software/BeautifulSoup/10.1.jpg =100x20 "BeautifulSoup")
 
 
 #### As of now the script needs two things:
